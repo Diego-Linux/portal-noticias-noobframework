@@ -1,0 +1,29 @@
+.container {
+    margin-top: 50px;
+}
+
+ .card-header a  {
+    text-decoration:none;
+    font-weight:bold;
+    text-transform:uppercase;
+}
+
+.card-header h5 {
+    font-weight:bold;
+}
+
+a:hover {
+    color:#fa00fa;
+}
+
+li {
+    list-style: none;
+}
+
+.navbar a {
+    font-weight:bold;
+}
+
+.nav-item {
+    font-weight:bold;
+}
